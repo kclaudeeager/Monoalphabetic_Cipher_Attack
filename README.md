@@ -51,7 +51,7 @@ Length of n-grams:
 * *n-gram length* refers to the length of n-grams to extract. I recommend using a length of 2 as it provided the best results.
 
 ### Substitution Cipher Decryption 
-The decryption program can be used by importing `GASolver.py`, and using the `GeneticSolver` class. An example has been provided in `example.py`:
+The decryption program can be used by importing `GASolver.py`, and using the `GeneticSolver` class. An example has been provided in `MainFile.py`:
 ```python
 # Importing the GeneticSolver object from GASolver.py
 from GASolver import GeneticSolver
